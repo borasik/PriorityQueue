@@ -5,7 +5,7 @@ using PriorityQueue;
 
 namespace PriorityQueueTest
 {
-    [TestClass]
+    [TestClass] 
     public class Programm
     {
         [TestMethod]
